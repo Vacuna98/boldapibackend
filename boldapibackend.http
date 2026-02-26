@@ -1,0 +1,6 @@
+@boldapibackend_HostAddress = http://localhost:5063
+
+GET {{boldapibackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
