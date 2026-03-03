@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("boldapibackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96ab8394deb14731bd92eb5c1892be4e0a89ac4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+469d18f4986b78f1a5b3b7ea7cd28f68044b7e11")]
 [assembly: System.Reflection.AssemblyProductAttribute("boldapibackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("boldapibackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
